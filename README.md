@@ -1,4 +1,6 @@
-# Projeto Especialização Automação de ETL-SiteReceita e categorização
+# Automação de ETL-SiteReceita e categorização
+
+**Projeto da especialização em parceria com empresas do Brasil.**  
 
 **O objetivo é: Criar um script para coletar dados da Receita Federal, limpar e categorizar os dados em áreas das empresas.** 
 
